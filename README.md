@@ -2,7 +2,7 @@
 
 [![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldutoit)](https://github.com/anuraghazra/github-readme-stats)
 
-My website is summarising some of the useful stuffI tried to do! [ldutoit.github.io](ldutoit.github.io)
+My website is summarising some of the useful stuff I tried to do: [ldutoit.github.io](https://ldutoit.github.io)
 <!--
 **ldutoit/ldutoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
