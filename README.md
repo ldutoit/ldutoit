@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldutoit)](https://github.com/anuraghazra/github-readme-stats)
 
 My website is summarising some of the useful stuffI tried to do! [ldutoit.github.io](ldutoit.github.io)
 <!--
