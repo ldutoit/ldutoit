@@ -2,7 +2,7 @@
 
 [![Ludo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldutoit)](https://github.com/anuraghazra/github-readme-stats)
 
-This website is giving an overview of our research: [dutoitlab.com](https://www.dutoitlab.com)
+This website is giving an overview of our research: [wildevolab.org](https://www.wildevolab.org)
 <!--
 **ldutoit/ldutoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
